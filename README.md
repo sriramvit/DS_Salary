@@ -14,3 +14,8 @@ Technologies and Tools Used:
 •	MySQL for data storage, retrieval, and query execution.
 •	Python (Pandas, NumPy) for data cleaning, preprocessing, and analysis.
 •	Excel for data manipulation, additional analysis, and visualizations.
+
+All the Files are in the Files Section
+PDF Layout of the Dashboard
+The Power BI Dashboard File
+The raw Data 
